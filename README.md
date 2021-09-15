@@ -10,8 +10,8 @@ Note :- (Desktop and Mobile Friendly)
 
 Reference used :- <a href="https://www.youtube.com/watch?v=Ttf3CEsEwMQ&t=3883s">Dev Ed's Todo List</a>
 
-A Pen created on CodePen.io. 
+Have a glance on my project :-) 
 
-Original URL: [https://codepen.io/codepen-io-abhi24/pen/PojovoJ](https://codepen.io/codepen-io-abhi24/pen/PojovoJ).
+Original URL: [https://codepen.io/codepen-io-abhi24/full/PojovoJ](https://codepen.io/codepen-io-abhi24/full/PojovoJ).
 
 
